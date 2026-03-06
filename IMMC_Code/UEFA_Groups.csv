@@ -1,0 +1,96 @@
+Date,Team 1,Team 2,Score
+19 Sep 2023,Galatasaray,FC Kobenhavn,2-2
+19 Sep 2023,Bayern Munchen,Manchester United,4-3
+19 Sep 2023,Manchester United,Galatasaray,2-3
+19 Sep 2023,FC Kobenhavn,Bayern Munchen,1-2
+19 Sep 2023,Galatasaray,Bayern Munchen,1-3
+19 Sep 2023,Manchester United,FC Kobenhavn,1-0
+19 Sep 2023,Bayern Munchen,Galatasaray,2-1
+19 Sep 2023,FC Kobenhavn,Manchester United,4-3
+20 Sep 2023,Galatasaray,Manchester United,3-3
+20 Sep 2023,Bayern Munchen,FC Kobenhavn,0-0
+20 Sep 2023,Manchester United,Bayern Munchen,0-1
+20 Sep 2023,FC Kobenhavn,Galatasaray,1-0
+20 Sep 2023,Arsenal,PSV Eindhoven,4-0
+20 Sep 2023,Sevilla,RC Lens,1-1
+20 Sep 2023,PSV Eindhoven,Sevilla,2-2
+20 Sep 2023,RC Lens,Arsenal,2-1
+03 Oct 2023,RC Lens,PSV Eindhoven,1-1
+03 Oct 2023,Sevilla,Arsenal,1-2
+03 Oct 2023,Arsenal,Sevilla,2-0
+03 Oct 2023,PSV Eindhoven,RC Lens,1-0
+03 Oct 2023,Sevilla,PSV Eindhoven,2-3
+03 Oct 2023,Arsenal,RC Lens,6-0
+03 Oct 2023,PSV Eindhoven,Arsenal,1-1
+03 Oct 2023,RC Lens,Sevilla,2-1
+04 Oct 2023,Real Madrid,1. FC Union Berlin,1-0
+04 Oct 2023,Sporting Braga,Napoli,1-2
+04 Oct 2023,1. FC Union Berlin,Sporting Braga,2-3
+04 Oct 2023,Napoli,Real Madrid,2-3
+04 Oct 2023,Sporting Braga,Real Madrid,1-2
+04 Oct 2023,1. FC Union Berlin,Napoli,0-1
+04 Oct 2023,Napoli,1. FC Union Berlin,1-1
+04 Oct 2023,Real Madrid,Sporting Braga,3-0
+24 Oct 2023,Sporting Braga,1. FC Union Berlin,1-1
+24 Oct 2023,Real Madrid,Napoli,4-2
+24 Oct 2023,1. FC Union Berlin,Real Madrid,2-3
+24 Oct 2023,Napoli,Sporting Braga,2-0
+24 Oct 2023,Benfica,Red Bull Salzburg,0-2
+24 Oct 2023,Real Sociedad,Internazionale,1-1
+24 Oct 2023,Red Bull Salzburg,Real Sociedad,2-0
+24 Oct 2023,Internazionale,Benfica,1-0
+25 Oct 2023,Internazionale,Red Bull Salzburg,2-1
+25 Oct 2023,Benfica,Real Sociedad,0-1
+25 Oct 2023,Real Sociedad,Benfica,3-1
+25 Oct 2023,Red Bull Salzburg,Internazionale,0-1
+25 Oct 2023,Real Sociedad,Red Bull Salzburg,0-0
+25 Oct 2023,Internazionale,Real Sociedad,0-0
+25 Oct 2023,Red Bull Salzburg,Benfica,3-1
+25 Oct 2023,Feyenoord,Celtic,2-0
+07 Nov 2023,Lazio,Atletico Madrid,1-1
+07 Nov 2023,Atletico Madrid,Feyenoord,3-2
+07 Nov 2023,Celtic,Lazio,1-2
+07 Nov 2023,Feyenoord,Lazio,3-1
+07 Nov 2023,Celtic,Atletico Madrid,2-2
+07 Nov 2023,Atletico Madrid,Celtic,6-0
+07 Nov 2023,Lazio,Feyenoord,1-0
+07 Nov 2023,Lazio,Celtic,2-0
+08 Nov 2023,Feyenoord,Atletico Madrid,1-3
+08 Nov 2023,Celtic,Feyenoord,2-1
+08 Nov 2023,Atletico Madrid,Lazio,2-0
+08 Nov 2023,AC Milan,Newcastle United,0-0
+08 Nov 2023,Paris St Germain,Borussia Dortmund,2-0
+08 Nov 2023,Newcastle United,Paris St Germain,4-1
+08 Nov 2023,Borussia Dortmund,AC Milan,0-0
+08 Nov 2023,Newcastle United,Borussia Dortmund,1-0
+28 Nov 2023,Paris St Germain,AC Milan,3-0
+28 Nov 2023,Borussia Dortmund,Newcastle United,2-0
+28 Nov 2023,AC Milan,Paris St Germain,2-1
+28 Nov 2023,AC Milan,Borussia Dortmund,1-3
+28 Nov 2023,Paris St Germain,Newcastle United,1-1
+28 Nov 2023,Newcastle United,AC Milan,1-2
+28 Nov 2023,Borussia Dortmund,Paris St Germain,1-1
+28 Nov 2023,Young Boys Berne,RB Leipzig,1-3
+29 Nov 2023,Manchester City,Crvena Zvezda,3-1
+29 Nov 2023,Crvena Zvezda,Young Boys Berne,2-2
+29 Nov 2023,RB Leipzig,Manchester City,1-3
+29 Nov 2023,Young Boys Berne,Manchester City,1-3
+29 Nov 2023,RB Leipzig,Crvena Zvezda,3-1
+29 Nov 2023,Manchester City,Young Boys Berne,3-0
+29 Nov 2023,Crvena Zvezda,RB Leipzig,1-2
+12 Dec 2023,Manchester City,RB Leipzig,3-2
+12 Dec 2023,Young Boys Berne,Crvena Zvezda,2-0
+12 Dec 2023,Crvena Zvezda,Manchester City,2-3
+12 Dec 2023,RB Leipzig,Young Boys Berne,2-1
+12 Dec 2023,Barcelona,Royal Antwerp,5-0
+12 Dec 2023,Shakhtar Donetsk,FC Porto,1-3
+12 Dec 2023,Royal Antwerp,Shakhtar Donetsk,2-3
+12 Dec 2023,FC Porto,Barcelona,0-1
+13 Dec 2023,Barcelona,Shakhtar Donetsk,2-1
+13 Dec 2023,Royal Antwerp,FC Porto,1-4
+13 Dec 2023,Shakhtar Donetsk,Barcelona,1-0
+13 Dec 2023,FC Porto,Royal Antwerp,2-0
+13 Dec 2023,Shakhtar Donetsk,Royal Antwerp,1-0
+13 Dec 2023,Barcelona,FC Porto,2-1
+13 Dec 2023,FC Porto,Shakhtar Donetsk,3-5
+13 Dec 2023,Royal Antwerp,Barcelona,3-2
